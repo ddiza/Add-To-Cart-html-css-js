@@ -16,37 +16,37 @@ closeShopping.addEventListener('click', ()=>{
 let products = [
     {
         id: 1,
-        name: 'PRODUCT NAME 1',
+        name: 'Meat-2 Sides',
         image: '1.PNG',
         price: 120000
     },
     {
         id: 2,
-        name: 'PRODUCT NAME 2',
+        name: 'Wings & Dip',
         image: '2.PNG',
         price: 120000
     },
     {
         id: 3,
-        name: 'PRODUCT NAME 3',
+        name: 'Salad & Protein',
         image: '3.PNG',
         price: 220000
     },
     {
         id: 4,
-        name: 'PRODUCT NAME 4',
+        name: 'Your Choice Soup',
         image: '4.PNG',
         price: 123000
     },
     {
         id: 5,
-        name: 'PRODUCT NAME 5',
+        name: 'Veg Salad',
         image: '5.PNG',
         price: 320000
     },
     {
         id: 6,
-        name: 'PRODUCT NAME 6',
+        name: '10" Pizza',
         image: '6.PNG',
         price: 120000
     }
